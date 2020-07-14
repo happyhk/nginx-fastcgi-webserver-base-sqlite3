@@ -52,5 +52,5 @@ NAME VARCHAR(20),<br>
 AGE INT);<br>
 ## nginx和fagic的配置与使用
 配置nginx:[https://blog.csdn.net/Wales_2015/article/details/82897289?utm_source=blogxgwz0](https://blog.csdn.net/Wales_2015/article/details/82897289?utm_source=blogxgwz0)<br>
-实战：Nginx + FastCGI 程序（C/C++） 搭建高性能web server[https://blog.csdn.net/Fly_as_tadpole/article/details/89917417](https://blog.csdn.net/Fly_as_tadpole/article/details/89917417)
+实战：Nginx+FastCGI程序(C/C++)搭建高性能webserver:[https://blog.csdn.net/Fly_as_tadpole/article/details/89917417](https://blog.csdn.net/Fly_as_tadpole/article/details/89917417)
 
