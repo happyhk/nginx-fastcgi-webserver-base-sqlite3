@@ -5,4 +5,4 @@ netstat -tanlp
 sudo kill -9 [pid]
 ```
 github的基本使用<br>
-上传代码至github:[https://www.cnblogs.com/cxk1995/p/5800196.html](https://www.cnblogs.com/cxk1995/p/5800196.html)<br>
+上传代码至github: [https://www.cnblogs.com/cxk1995/p/5800196.html](https://www.cnblogs.com/cxk1995/p/5800196.html)<br>
