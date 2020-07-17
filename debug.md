@@ -6,3 +6,5 @@ sudo kill -9 [pid]
 ```
 github的基本使用<br>
 上传代码至github: [https://www.cnblogs.com/cxk1995/p/5800196.html](https://www.cnblogs.com/cxk1995/p/5800196.html)<br>
+
+fastcgi相应json[https://stackoverflow.com/questions/12954196/how-to-access-a-body-of-post-request-using-fastcgi-c-c-application](https://stackoverflow.com/questions/12954196/how-to-access-a-body-of-post-request-using-fastcgi-c-c-application)<br>
