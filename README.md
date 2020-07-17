@@ -57,5 +57,6 @@ fastcgi工具包：[https://fastcgi-archives.github.io/FastCGI_Developers_Kit_Fa
 fastcgi文档：[https://fastcgi-archives.github.io/FastCGI_A_High-Performance_Web_Server_Interface_FastCGI.html](https://fastcgi-archives.github.io/FastCGI_A_High-Performance_Web_Server_Interface_FastCGI.html)<br>
 RapidJSon文档[http://rapidjson.org/zh-cn/](http://rapidjson.org/zh-cn/)<br>
 W3Cschool-nginx的conf配置:[https://www.w3cschool.cn/nginx/nginx-d1aw28wa.html](https://www.w3cschool.cn/nginx/nginx-d1aw28wa.html)<br>
+nginx初学者指南[https://www.bookstack.cn/read/nginx-docs/%E4%BB%8B%E7%BB%8D-%E5%88%9D%E5%AD%A6%E8%80%85%E6%8C%87%E5%8D%97.md](https://www.bookstack.cn/read/nginx-docs/%E4%BB%8B%E7%BB%8D-%E5%88%9D%E5%AD%A6%E8%80%85%E6%8C%87%E5%8D%97.md)<br>
 
 
