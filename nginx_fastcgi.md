@@ -170,4 +170,4 @@ int main() {
 
 5）使用postman发送post请求的效果<br>
 
-![Screenshot from 2020-07-17 15-52-46](G:\airia\Screenshot from 2020-07-17 15-52-46.png)
+![img](https://github.com/happyhk/nginx-fastcgi-webserver-base-sqlite3/blob/master/images/Screenshot%20from%202020-07-17%2015-52-46.png)
