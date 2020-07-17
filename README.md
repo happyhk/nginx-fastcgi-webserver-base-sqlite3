@@ -55,5 +55,7 @@ AGE INT);<br>
 实战：Nginx+FastCGI程序(C/C++)搭建高性能webserver:[https://blog.csdn.net/Fly_as_tadpole/article/details/89917417](https://blog.csdn.net/Fly_as_tadpole/article/details/89917417)<br>
 fastcgi工具包：[https://fastcgi-archives.github.io/FastCGI_Developers_Kit_FastCGI.html](https://fastcgi-archives.github.io/FastCGI_Developers_Kit_FastCGI.html)<br>
 fastcgi文档：[https://fastcgi-archives.github.io/FastCGI_A_High-Performance_Web_Server_Interface_FastCGI.html](https://fastcgi-archives.github.io/FastCGI_A_High-Performance_Web_Server_Interface_FastCGI.html)<br>
-RapidJSon文档[http://rapidjson.org/zh-cn/](http://rapidjson.org/zh-cn/)
+RapidJSon文档[http://rapidjson.org/zh-cn/](http://rapidjson.org/zh-cn/)<br>
+W3Cschool-nginx的conf配置:[https://www.w3cschool.cn/nginx/nginx-d1aw28wa.html](https://www.w3cschool.cn/nginx/nginx-d1aw28wa.html)<br>
+
 
